@@ -1,0 +1,42 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+
+}
+
+.padre1
+{position: relative;
+	top: 0;
+	left: 0;
+}
+.wp1 {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+#logo {
+	position: absolute;
+	width: 800px;
+	height: auto;
+	top: 370px;
+	left: 320px;
+
+}
+
+.wp2 {
+	 filter: blur(6px);
+  -webkit-filter: blur(6px);
+}
+
+
+
+creditos:
+link ref 1: https://www.emprendimientorealista.com/
+link ref 2: https://99designs.cl/profiles/265914/designs/679852
+animaciones: https://animate.style/
+imagenes sobre otras: https://codenostra.com/es/cmo-coloco-una-imagen-encima-de-otra-en-html.html#post-1997397
+sin bordes: https://stackoverflow.com/questions/14786936/removing-border-on-top-of-a-page
+blur: https://www.w3schools.com/howto/howto_css_blurred_background.asp
